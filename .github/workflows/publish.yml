@@ -1,0 +1,32 @@
+name: Publish reels
+
+# Push a branch named incoming/<anything> holding reels in incoming/*.mp4.
+# This uploads them as assets of the release named in incoming/TAG (default reels-v1),
+# then deletes the branch so the repository itself stays small.
+on:
+  push:
+    branches: ['incoming/**']
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload to release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          TAG=$(cat incoming/TAG 2>/dev/null || echo reels-v1)
+          gh release view "$TAG" >/dev/null 2>&1 || \
+            gh release create "$TAG" --target main --title "$TAG" --notes "Mindreel video reels (1080x1920 H.264, AAC). Streamed by the iPhone app."
+          ls incoming/*.mp4 | wc -l
+          gh release upload "$TAG" incoming/*.mp4 --clobber
+          ls incoming/*.json >/dev/null 2>&1 && gh release upload "$TAG" incoming/*.json --clobber || true
+          gh release view "$TAG" --json assets --jq '.assets | length'
+      - name: Delete the upload branch
+        if: success()
+        run: git push origin --delete "$GITHUB_REF_NAME"
