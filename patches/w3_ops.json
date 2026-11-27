@@ -1,0 +1,946 @@
+[
+ {
+  "id": "c-attend",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "Your attention shapes what you experience.",
+   "emph": [
+    "attention"
+   ]
+  }
+ },
+ {
+  "id": "c-attend",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "Control your attention, and you shape how your life feels."
+  }
+ },
+ {
+  "id": "c-be-good-now",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "The Stoics judged a person by their choices. Choices acted on, not theories recited.",
+   "emph": [
+    "choices"
+   ]
+  }
+ },
+ {
+  "id": "c-flywheel",
+  "op": "ins",
+  "i": 3,
+  "fields": {
+   "text": "Modern data are gentler. Missing one day doesn't derail a habit.",
+   "shots": [
+    "calendar"
+   ],
+   "emph": [
+    "gentler"
+   ]
+  }
+ },
+ {
+  "id": "c-revenge",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "Refuse to copy them, and your peace stops depending on what they do.",
+   "emph": [
+    "peace"
+   ]
+  }
+ },
+ {
+  "id": "c-thousand-li",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "Atomic Habits is a more than two thousand year old idea. With better marketing.",
+   "emph": [
+    "marketing"
+   ]
+  }
+ },
+ {
+  "id": "c-writing-exact",
+  "op": "set",
+  "i": 3,
+  "fields": {
+   "text": "That's why Bezos banned slides from Amazon's senior meetings, for six page memos.",
+   "emph": [
+    "memos"
+   ]
+  }
+ },
+ {
+  "id": "e-true-fans",
+  "op": "ins",
+  "i": 5,
+  "fields": {
+   "text": "That's revenue before costs, and few ever reach a thousand. Treat it as a target, not a forecast.",
+   "shots": [
+    "charts"
+   ],
+   "emph": [
+    "target"
+   ]
+  }
+ },
+ {
+  "id": "k-no-one-is-free-without-self-mastery",
+  "op": "set",
+  "i": 2,
+  "fields": {
+   "by": "Epictetus, Fragments"
+  }
+ },
+ {
+  "id": "m-voluntary-discomfort",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "Skip the cold if you have a heart condition. Skip fasting if you've had an eating disorder.",
+   "shots": [
+    "heartbeat"
+   ],
+   "emph": [
+    "heart"
+   ]
+  }
+ },
+ {
+  "id": "n-exercise",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "Exercise helps the ageing brain. The boost is smaller than the hype.",
+   "emph": [
+    "smaller"
+   ]
+  }
+ },
+ {
+  "id": "n-exercise",
+  "op": "ins",
+  "i": 2,
+  "fields": {
+   "text": "That was older adults over a year. In younger adults, the thinking boost is small or uncertain.",
+   "shots": [
+    "old_hands"
+   ],
+   "emph": [
+    "uncertain"
+   ]
+  }
+ },
+ {
+  "id": "n-exercise",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "Take a brisk twenty minute walk today. Health first. Any brain boost is a bonus.",
+   "emph": [
+    "bonus"
+   ]
+  }
+ },
+ {
+  "id": "n-hebb",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "Repetition strengthens the connections you use.",
+   "emph": [
+    "strengthens"
+   ]
+  }
+ },
+ {
+  "id": "n-hebb",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "Focused repetition, then sleep, is how circuits stick.",
+   "emph": [
+    "sleep"
+   ]
+  }
+ },
+ {
+  "id": "n-morning-light",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "The principle is solid. The exact minutes are rules of thumb.",
+   "shots": [
+    "sunrise"
+   ],
+   "emph": [
+    "solid"
+   ]
+  }
+ },
+ {
+  "id": "n-pleasure-pain",
+  "op": "ins",
+  "i": 4,
+  "fields": {
+   "text": "The balance is a metaphor, and the thirty days come from her clinic, not trials.",
+   "shots": [
+    "weights_scale"
+   ],
+   "emph": [
+    "metaphor"
+   ]
+  }
+ },
+ {
+  "id": "n-sigh",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "Two inhales, one long exhale. A quick, free way to calm down.",
+   "emph": [
+    "exhale"
+   ]
+  }
+ },
+ {
+  "id": "n-sigh",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "In one small Stanford study, five minutes a day edged out meditation for mood. Promising, not settled.",
+   "emph": [
+    "Promising"
+   ]
+  }
+ },
+ {
+  "id": "n-wandering",
+  "op": "set",
+  "i": 3,
+  "fields": {
+   "text": "And people were less happy while wandering. Pleasant thoughts didn't make them happier.",
+   "emph": [
+    "less"
+   ]
+  }
+ },
+ {
+  "id": "p-river",
+  "op": "ins",
+  "i": 1,
+  "fields": {
+   "text": "That famous line is Plato's paraphrase. Heraclitus wrote that different waters keep flowing in.",
+   "shots": [
+    "river_flow"
+   ],
+   "emph": [
+    "paraphrase"
+   ]
+  }
+ },
+ {
+  "id": "x-action-before-motivation",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "If low mood lasts over two weeks, use this alongside professional care.",
+   "shots": [
+    "conversation"
+   ],
+   "emph": [
+    "care"
+   ]
+  }
+ },
+ {
+  "id": "x-caffeine-properly-dosed",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "Start low. Stay under four hundred milligrams a day, and skip it with heart or anxiety problems.",
+   "shots": [
+    "coffee"
+   ],
+   "emph": [
+    "low"
+   ]
+  }
+ },
+ {
+  "id": "x-coffee-at-4pm-costs-you-an-hour-of-sleep",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "A big caffeine dose six hours before bed still cut about an hour of sleep.",
+   "emph": [
+    "hour"
+   ]
+  }
+ },
+ {
+  "id": "x-communities-can-manage-shared-resources",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "The standard view said shared resources always get overused.",
+   "emph": [
+    "overused"
+   ]
+  }
+ },
+ {
+  "id": "x-communities-can-manage-shared-resources",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "She shared the Nobel Prize for showing it.",
+   "emph": [
+    "Nobel"
+   ]
+  }
+ },
+ {
+  "id": "x-complexity-has-diminishing-returns",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "Joseph Tainter's bold claim: Rome didn't fall because it was weak.",
+   "emph": [
+    "bold"
+   ]
+  }
+ },
+ {
+  "id": "x-creatine-3-to-5-grams-a-day-every-day",
+  "op": "ins",
+  "i": 3,
+  "fields": {
+   "text": "It does raise blood creatinine, so tell your doctor before kidney tests.",
+   "shots": [
+    "lab_science"
+   ],
+   "emph": [
+    "doctor"
+   ]
+  }
+ },
+ {
+  "id": "x-delay-is-the-cure-for-anger",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "Seneca agreed with the old line: anger is a brief madness.",
+   "emph": [
+    "madness"
+   ]
+  }
+ },
+ {
+  "id": "x-exercise-rivals-therapy-for-low-mood",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "With moderate or severe depression, use it alongside treatment, not instead.",
+   "shots": [
+    "conversation"
+   ],
+   "emph": [
+    "alongside"
+   ]
+  }
+ },
+ {
+  "id": "x-fear-honour-and-interest",
+  "op": "set",
+  "i": 3,
+  "fields": {
+   "by": "The Athenian envoys at Melos, in Thucydides"
+  }
+ },
+ {
+  "id": "x-fine-tune-0-1-of-the-weights",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "You don't need to retrain a giant model. Just a tiny fraction of it.",
+   "emph": [
+    "tiny"
+   ]
+  }
+ },
+ {
+  "id": "x-four-weeks-to-reset",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "Safety first. If it's heavy drinking, benzos, opioids or sedatives, don't quit cold turkey. Plan it with a doctor.",
+   "shots": [
+    "heartbeat"
+   ],
+   "emph": [
+    "Safety"
+   ]
+  }
+ },
+ {
+  "id": "x-how-you-react-to-good-news-matters",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "The evidence is mostly correlational. Treat it as a habit worth trying.",
+   "shots": [
+    "charts"
+   ],
+   "emph": [
+    "habit"
+   ]
+  }
+ },
+ {
+  "id": "x-how-you-react-to-good-news-matters-most",
+  "op": "set",
+  "i": 1,
+  "fields": {
+   "text": "Active, enthusiastic replies go with more trust and intimacy.",
+   "emph": [
+    "enthusiastic"
+   ]
+  }
+ },
+ {
+  "id": "x-how-you-react-to-good-news-matters-most",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "It's shown in couples and close friends. At work, it's plausible but less tested.",
+   "emph": [
+    "couples"
+   ]
+  }
+ },
+ {
+  "id": "x-hubs-make-networks-robust-and-fragile-at",
+  "op": "set",
+  "i": 3,
+  "fields": {
+   "text": "Your friends tend to have more friends than you. Popular people show up on many lists.",
+   "emph": [
+    "Popular"
+   ]
+  }
+ },
+ {
+  "id": "x-legibility-kills-what-it-can-t-see",
+  "op": "ins",
+  "i": 1,
+  "fields": {
+   "text": "Add a state forcing the plan through, and a society too weak to resist.",
+   "shots": [
+    "military"
+   ],
+   "emph": [
+    "forcing"
+   ]
+  }
+ },
+ {
+  "id": "x-let-the-model-think-in-tokens",
+  "op": "set",
+  "i": 3,
+  "fields": {
+   "text": "With the zero-shot think step by step trick, it paved the way for reasoning models.",
+   "emph": [
+    "reasoning"
+   ]
+  }
+ },
+ {
+  "id": "x-make-memory-a-choice",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "Fifteen minutes a day, compounding for years.",
+   "emph": [
+    "compounding"
+   ]
+  }
+ },
+ {
+  "id": "x-make-the-first-offer",
+  "op": "set",
+  "i": 2,
+  "fields": {
+   "text": "Precise numbers anchor harder. Four thousand eight fifty, not five thousand. But precise and extreme can backfire.",
+   "emph": [
+    "backfire"
+   ]
+  }
+ },
+ {
+  "id": "x-make-the-first-offer",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "Before your next negotiation, prepare a well-researched, precise opening number.",
+   "emph": [
+    "precise"
+   ]
+  }
+ },
+ {
+  "id": "x-melatonin-is-a-clock-not-a-sedative",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "Label doses are unreliable. Pick a tested brand, and ask a doctor if you take other medication.",
+   "shots": [
+    "lab_science"
+   ],
+   "emph": [
+    "unreliable"
+   ]
+  }
+ },
+ {
+  "id": "x-move-before-you-think",
+  "op": "set",
+  "i": 2,
+  "fields": {
+   "text": "During, right after or later, the boost was about the same.",
+   "emph": [
+    "same"
+   ]
+  }
+ },
+ {
+  "id": "x-never-name-the-first-number",
+  "op": "ins",
+  "i": 3,
+  "fields": {
+   "text": "That fits when they know the pay band and you don't. Know the market? Open first.",
+   "shots": [
+    "chess"
+   ],
+   "emph": [
+    "market"
+   ]
+  }
+ },
+ {
+  "id": "x-no-regression-can-replace-good-design",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "John Snow found cholera's cause by walking door to door.",
+   "emph": [
+    "door"
+   ]
+  }
+ },
+ {
+  "id": "x-prefill-computes-decode-waits-on-memory",
+  "op": "set",
+  "i": 2,
+  "fields": {
+   "text": "Prefill is compute-bound. Decoding waits on memory, unless you batch many requests.",
+   "emph": [
+    "batch"
+   ]
+  }
+ },
+ {
+  "id": "x-save-15-split-three-ways",
+  "op": "ins",
+  "i": 2,
+  "fields": {
+   "text": "Outside the US? Think global stocks and home-currency bonds, in tax-efficient local funds.",
+   "shots": [
+    "map_old"
+   ],
+   "emph": [
+    "global"
+   ]
+  }
+ },
+ {
+  "id": "x-shrinking-every-estimate-beats-trusting-",
+  "op": "set",
+  "i": 2,
+  "fields": {
+   "text": "With four or more averages, pull each one toward the overall mean.",
+   "emph": [
+    "four"
+   ]
+  }
+ },
+ {
+  "id": "x-six-levers-of-persuasion",
+  "op": "ins",
+  "i": 3,
+  "fields": {
+   "text": "Newer editions add a seventh, unity. And many effects are smaller than the legends.",
+   "shots": [
+    "old_books"
+   ],
+   "emph": [
+    "seventh"
+   ]
+  }
+ },
+ {
+  "id": "x-symmetry-organises-physics",
+  "op": "set",
+  "i": 2,
+  "fields": {
+   "text": "Each continuous symmetry implies something that's conserved.",
+   "emph": [
+    "continuous"
+   ]
+  }
+ },
+ {
+  "id": "x-systems-with-no-author",
+  "op": "set",
+  "i": 1,
+  "fields": {
+   "text": "He spends his last year obeying the process anyway.",
+   "emph": [
+    "year"
+   ]
+  }
+ },
+ {
+  "id": "x-talk-to-yourself-by-name",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "The evidence is promising but modest. Picturing the scene from outside is better tested.",
+   "shots": [
+    "window_think"
+   ],
+   "emph": [
+    "modest"
+   ]
+  }
+ },
+ {
+  "id": "x-the-bias-variance-trade-off",
+  "op": "ins",
+  "i": 2,
+  "fields": {
+   "text": "Expected error is bias squared, plus variance, plus noise you can't remove.",
+   "shots": [
+    "equations"
+   ],
+   "emph": [
+    "noise"
+   ]
+  }
+ },
+ {
+  "id": "x-the-iliad-s-first-word-is-rage",
+  "op": "set",
+  "i": 3,
+  "fields": {
+   "text": "Two enemies weep together, and it closes on a funeral. No triumph.",
+   "emph": [
+    "funeral"
+   ]
+  }
+ },
+ {
+  "id": "x-the-optimal-gap",
+  "op": "set",
+  "i": 1,
+  "fields": {
+   "text": "Follow-up research put it at ten to twenty percent of how long you need to remember.",
+   "emph": [
+    "twenty"
+   ]
+  }
+ },
+ {
+  "id": "x-the-optimal-gap",
+  "op": "ins",
+  "i": 3,
+  "fields": {
+   "text": "For a whole year, the ideal gap shrinks to about five percent.",
+   "shots": [
+    "calendar"
+   ],
+   "emph": [
+    "five"
+   ]
+  }
+ },
+ {
+  "id": "x-the-whole-can-reverse-what-every-part-sa",
+  "op": "set",
+  "i": 1,
+  "fields": {
+   "text": "Yet department by department, the gap vanished or slightly favoured women.",
+   "emph": [
+    "vanished"
+   ]
+  }
+ },
+ {
+  "id": "x-three-funds-whole-market",
+  "op": "ins",
+  "i": 1,
+  "fields": {
+   "text": "Outside the US, use a global stock fund and home-currency bonds in local, tax-efficient funds.",
+   "shots": [
+    "map_old"
+   ],
+   "emph": [
+    "global"
+   ]
+  }
+ },
+ {
+  "id": "x-tune-the-learning-rate-first",
+  "op": "set",
+  "i": 1,
+  "fields": {
+   "text": "The learning rate matters most. Re-tune it for every setting you compare.",
+   "emph": [
+    "Re-tune"
+   ]
+  }
+ },
+ {
+  "id": "x-wake-at-the-same-time",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "A regular wake time matters as much as total hours.",
+   "emph": [
+    "regular"
+   ]
+  }
+ },
+ {
+  "id": "x-what-others-do-beats-what-they-say",
+  "op": "set",
+  "i": 1,
+  "fields": {
+   "text": "Most guests reuse their towels can work better.",
+   "emph": [
+    "reuse"
+   ]
+  }
+ },
+ {
+  "id": "x-what-others-do-beats-what-they-say",
+  "op": "ins",
+  "i": 1,
+  "fields": {
+   "text": "But the towel study replicated weakly. Expect small nudges, not guaranteed wins.",
+   "shots": [
+    "broken_glass"
+   ],
+   "emph": [
+    "weakly"
+   ]
+  }
+ },
+ {
+  "id": "x-where-to-push-a-system",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "Stronger still: the paradigm. Strongest: the power to step outside any paradigm.",
+   "emph": [
+    "outside"
+   ]
+  }
+ },
+ {
+  "id": "x-your-gpu-is-mostly-waiting-not-computing",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "You paid for the compute. Much of the time, your GPU is waiting.",
+   "emph": [
+    "waiting"
+   ]
+  }
+ },
+ {
+  "id": "x-your-gpu-is-mostly-waiting-not-computing",
+  "op": "set",
+  "i": 1,
+  "fields": {
+   "text": "Unless you're careful, training time goes into moving memory around.",
+   "emph": [
+    "memory"
+   ]
+  }
+ },
+ {
+  "id": "x-your-model-is-great-because-it-saw-the-t",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "Leakage was found in nearly three hundred published ML papers.",
+   "emph": [
+    "hundred"
+   ]
+  }
+ },
+ {
+  "id": "x-your-next-job-comes-from-an-acquaintance",
+  "op": "ins",
+  "i": 3,
+  "fields": {
+   "text": "A huge LinkedIn experiment agreed, but moderately weak ties helped most. The weakest helped less.",
+   "shots": [
+    "phone_scroll"
+   ],
+   "emph": [
+    "moderately"
+   ]
+  }
+ },
+ {
+  "id": "x-your-savings-rate-decides-retirement",
+  "op": "set",
+  "i": 3,
+  "fields": {
+   "text": "The usual target is twenty five times your yearly spending. Outside the US, aim nearer thirty.",
+   "emph": [
+    "thirty"
+   ]
+  }
+ },
+ {
+  "id": "y-flow",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "Flow lives where a high challenge meets high skill.",
+   "emph": [
+    "challenge"
+   ]
+  }
+ },
+ {
+  "id": "y-flow",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "Challenge matched to skill, with clear goals and instant feedback.",
+   "emph": [
+    "matched"
+   ]
+  }
+ },
+ {
+  "id": "y-flow",
+  "op": "set",
+  "i": 5,
+  "fields": {
+   "text": "Make your next work block a real challenge for your skill, with one clear goal.",
+   "emph": [
+    "challenge"
+   ]
+  }
+ },
+ {
+  "id": "y-good-life",
+  "op": "ins",
+  "i": -1,
+  "fields": {
+   "text": "It's observational, and the first cohorts were all men. A strong link, not proof.",
+   "shots": [
+    "old_hands"
+   ],
+   "emph": [
+    "observational"
+   ]
+  }
+ },
+ {
+  "id": "y-helplessness",
+  "op": "ins",
+  "i": 4,
+  "fields": {
+   "text": "That circuit evidence is mostly from rats. In people, it's plausible but less tested.",
+   "shots": [
+    "lab_science"
+   ],
+   "emph": [
+    "rats"
+   ]
+  }
+ },
+ {
+  "id": "y-reappraisal",
+  "op": "ins",
+  "i": 3,
+  "fields": {
+   "text": "The studies are small and the effects modest. But the trick is free.",
+   "shots": [
+    "charts"
+   ],
+   "emph": [
+    "free"
+   ]
+  }
+ },
+ {
+  "id": "y-sdt",
+  "op": "set",
+  "i": 4,
+  "fields": {
+   "text": "Expected, controlling rewards erode the drive for things you already enjoy.",
+   "emph": [
+    "controlling"
+   ]
+  }
+ },
+ {
+  "id": "y-treadmill",
+  "op": "set",
+  "i": 0,
+  "fields": {
+   "text": "The new car feeling fades.",
+   "emph": [
+    "fades"
+   ]
+  }
+ },
+ {
+  "id": "y-treadmill",
+  "op": "set",
+  "i": 1,
+  "fields": {
+   "text": "We adapt to most things. Raises. Gadgets. Big wins.",
+   "emph": [
+    "adapt"
+   ]
+  }
+ },
+ {
+  "id": "y-treadmill",
+  "op": "ins",
+  "i": 2,
+  "fields": {
+   "text": "But not all. Disability, long unemployment and divorce can weigh for years.",
+   "shots": [
+    "storm_clouds"
+   ],
+   "emph": [
+    "years"
+   ]
+  }
+ }
+]
